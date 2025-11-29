@@ -18,7 +18,7 @@ Service Providers: For hosting, analytics, and app functionality. Legal Authorit
 
 6. Your Rights You may:
 
-Access, correct, or delete your data. Withdraw consent for data processing. Contact us at maherladsak@yahoo.com for any privacy-related requests.
+Access, correct, or delete your data. Withdraw consent for data processing. Contact us at admin@almzinstitute.com for any privacy-related requests.
 
 7. Third-Party Services Our app may link to or integrate third-party services. We are not responsible for their privacy practices. Please review their policies separately.
 
@@ -28,4 +28,4 @@ Access, correct, or delete your data. Withdraw consent for data processing. Cont
 
 10. Changes to This Policy We may update this Privacy Policy from time to time. Continued use of the app after changes means you accept the updated policy.
 
-11. Contact Us If you have questions or concerns, email us at: maherladsak@yahoo.com
+11. Contact Us If you have questions or concerns, email us at: admin@almzinstitute.com
